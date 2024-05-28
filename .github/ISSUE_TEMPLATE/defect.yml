@@ -5,9 +5,9 @@ body:
   - type: textarea
     attributes:
       label: Environment information
-      description: Please provide information about the EHRbase version 
+      description: Please provide information about the version of EHRbase for OpenShift 
       placeholder: |
-        - EHRbase version:
+        - Version of HIP EHRbase for OpenShift:
     validations:
       required: true
   - type: textarea
